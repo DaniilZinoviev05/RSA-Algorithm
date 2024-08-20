@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1724106359 source:/home/daniil/c++ projects/code_blocks/RSA/main.cpp
+1724167826 source:/home/daniil/c++ projects/code_blocks/RSA/main.cpp
 	<iostream>
 	<cstdlib>
+	<cstring>
 
